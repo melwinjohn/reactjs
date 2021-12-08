@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a4f85e36-fe6a-42f8-b0f6-8b865783e2a9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/gramseva-admin-app",
+    "appService.deploySubpath": "build"
+}
